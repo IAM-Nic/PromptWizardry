@@ -6,3 +6,6 @@ I have been using CHATGPT for some time and would like to create a repo of my st
 Outline of transcripts
 
 Email Templating Prompt
+
+
+In each file just copy and paste into fav GPT tool and see what comes out :)
