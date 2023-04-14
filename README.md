@@ -8,6 +8,8 @@ I have been using CHATGPT for some time and would like to create a repo of my st
 Here are the links to the files in the [PromptWizardry](https://github.com/IAM-Nic/PromptWizardry) repository:
 
 - [Email-Template-Prompt](https://github.com/IAM-Nic/PromptWizardry/blob/main/Email-Template-Prompt)
-- [LICENSE](https://github.com/IAM-Nic/PromptWizardry/blob/main/LICENSE)
+- [github-readme-prompt](https://github.com/IAM-Nic/PromptWizardry/blob/main/github-readme-prompt)
+
 - [Outlines-for-Transcripts](https://github.com/IAM-Nic/PromptWizardry/blob/main/Outlines-for-Transcripts)
 - [README.md](https://github.com/IAM-Nic/PromptWizardry/blob/main/README.md)
+- [LICENSE](https://github.com/IAM-Nic/PromptWizardry/blob/main/LICENSE)
