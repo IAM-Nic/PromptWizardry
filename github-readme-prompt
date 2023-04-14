@@ -1,9 +1,12 @@
-here is my github file info can you create a readme that links to each one inside my github repo readme file?
-
 [username] is my username
 [reponame] is well YOUR repo name :)
+[sort] this is how I want to info displayed (a-z, logically, by theme, make something up it will fill it in below)
+
+here is my github file info can you create a readme that links to each one inside my github repo readme file [sort] with readme and licence at the end?
 
 here is the link structure [https://github.com/[username]/[reponame]/blob/main/]
 output should be in code not plain text please
 
-[repo files](paste repo highlevel structure here... i did a copy and paste from my repo page)
+
+
+[repo files](I paste repo highlevel structure here... I just did a copy and paste from my repo page)
